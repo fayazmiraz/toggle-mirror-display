@@ -1,18 +1,7 @@
 (*
  * Toggle macOS Mirror Display Option
  *
- * @TODO
- *  - Improve Error Handling
- *  - Convert repeat until tab group 1 of window 1 exists end repeat blocks to function calls
- *      and keep repeat to max 10 seconds. After that the script should quit.
- *
- * description:
- *  macOS automation script to toggle the macOS Mirror Display option.
- *  Normally cmd+fn+f1 does this, however it doesn't set "Optimize for:" option to the Built-in Display
- *  This script does that.
- *
  * @author: Fayaz Ahmed
- * @home: https://fayaz.dev/
  * version: 1.0.0
  * license: MIT
  *)
