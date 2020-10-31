@@ -2,7 +2,7 @@
  * Toggle macOS Mirror Display Option
  *
  * @author: Fayaz Ahmed
- * version: 1.0.0
+ * version: 1.0.1
  * license: MIT
  *)
 
