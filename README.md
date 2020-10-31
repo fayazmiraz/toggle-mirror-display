@@ -16,6 +16,13 @@ Usage
 3. Create a new **Quick Action** from **Automator** to launch the Application.
 4. Finally from `System Preferences` -> `Keyboard` -> `Shortcuts` -> `Services` -> `general`, activate the **Quick Action** with the keyboard shortcut of your choice.
 
+Todo
+----
+
+1. Better Error Handling.
+2. Revert back to the old active state of **System Preferences** if it was already running.
+3. Give time limit to `repeat until` blocks.
+
 License
 -------
 
