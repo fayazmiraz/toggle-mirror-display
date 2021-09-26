@@ -1,6 +1,9 @@
 Toggle Mirror Display
 =====================
 
+![mirror-display](https://user-images.githubusercontent.com/1200316/134811392-d50d9cc0-e038-4aca-a9f6-cd0923d8bdac.png)
+
+
 This is a simple AppleScript that can be used with Automator to toggle Mirror Display option using a keyboard shortcut.
 
 This can be useful if you have multiple displays and want to switch between Mirror Display option and default extended display option with a single keyboard shortcut.
